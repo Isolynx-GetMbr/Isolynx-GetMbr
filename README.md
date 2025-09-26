@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, this is Isolynx (a.k.a GetMbr) 👋
 
-<!--
-**Isolynx-GetMbr/Isolynx-GetMbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(yes my main got locked sadly.)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Fentanyl (C#)** 
+- 🌱 I’m currently learning: **x86 asm**
+- 🙌 Fluent in: **C++ and C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Accounts
+- Discord: isolynxx
+- Reddit: [u/GetMbr](https://reddit.com/u/GetMbr) (inactive)
+- YT: [@isolynx.getmbr](https://youtube.com/@getmbr.isolynx)
+- X (Twitter):
+   - [@GetMbr_Niko](https://x.com/@GetMbr_Niko)
+   - [@GetMbr](https://x.com/@GetMbr)
+- TikTok:
+   - @getmbr_niko_oneshot
+   - @isolynxx.jinxuu (active)
+- ## [Old Account](github.com/GetMbr)
+  
