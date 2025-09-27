@@ -1,6 +1,9 @@
 ## Hi there, this is Isolynx (a.k.a GetMbr) 👋
 
-(yes my main got locked sadly.)
+> [!NOTE]
+> Yes my main got locked sadly;
+> This would be my temp account till the main got recovered,
+> if not, this would be a new main.
 
 - 🔭 I’m currently working on: **Fentanyl (C#)** 
 - 🌱 I’m currently learning: **x86 asm**
