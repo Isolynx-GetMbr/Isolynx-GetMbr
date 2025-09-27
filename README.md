@@ -1,9 +1,7 @@
 ## Hi there, this is Isolynx (a.k.a GetMbr) 👋
 
 > [!NOTE]
-> Yes because of 2fa my main got locked sadly;
-> This would be my temp account till the main got recovered,
-> if not, this would be a new main.
+> Yes because of 2fa my main got locked sadly; This would be my temp account till the main got recovered, if not, this would be a new main.
 
 - 🔭 I’m currently working on: **Fentanyl (C#)** 
 - 🌱 I’m currently learning: **x86 asm**
