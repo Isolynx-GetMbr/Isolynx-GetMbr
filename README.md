@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: **Fentanyl (C#)** 
 - 🌱 I’m currently learning: **x86 asm**
 - 🙌 Fluent in: **C++ and C#**
-- 🎧🎶 Genres: Vocaloid, OPM, Indie game music
+- ‼️ Interested in: Programming, Vocaloid, Proseka (pjsk), Omori, ULTRAKILL, etc.
 - 📍🇵🇭 (grabe ba yung corruption dito)
 
 ## Accounts
