@@ -19,5 +19,5 @@
 - TikTok:
    - @getmbr_niko_oneshot
    - @isolynxx.jinxuu (active)
-- ## [Old Account](github.com/GetMbr)
+- ## [Old Account](https://github.com/GetMbr)
   
