@@ -1,13 +1,13 @@
 ## Hi there, this is Isolynx (a.k.a GetMbr) 👋
 
 > [!NOTE]
-> Yes because of 2fa my main got locked sadly; This would be my temp account till the main got recovered, if not, this would be a new main.
+> Yes because of 2fa my main got locked sadly; This would be my temp account till the main got recovered (level: **Impossible**), if not, this would be a new main.
 
 - 🔭 I’m currently working on: **Fentanyl (C#)** 
 - 🌱 I’m currently learning: **x86 asm**
 - 🙌 Fluent in: **C++ and C#**
 - ‼️ Interested in: Programming, Vocaloid, Proseka (pjsk), Omori, ULTRAKILL, etc.
-- 📍🇵🇭 (grabe ba yung corruption dito)
+- 📍🇵🇭, and I'm actually a minor.
 
 ## Accounts
 - Discord: isolynxx
