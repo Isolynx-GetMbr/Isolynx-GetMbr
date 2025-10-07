@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: **Fentanyl (C#)** 
 - 🌱 I’m currently learning: **x86 asm**
 - 🙌 Fluent in: **C++ and C#**
-- ‼️ Interested in: Programming, Vocaloid, Proseka (pjsk), Omori, ULTRAKILL, etc.
+- ‼️ Interested in: Programming, Biochemistry, Vocaloid, Proseka (pjsk), Omori, ULTRAKILL, etc.
 - 📍🇵🇭, and I'm actually a minor.
 
 ## Accounts
