@@ -12,7 +12,7 @@
 ## Accounts
 - Discord: isolynxx
 - Reddit: [u/GetMbr](https://reddit.com/u/GetMbr) (inactive)
-- YT: [@getmbr.isolynx](https://youtube.com/@getmbr.isolynx) (changed the handle for some reason)
+- YT: [@isolynx.getmbr](https://youtube.com/@isolynx.getmbr) 
 - X (Twitter):
    - [@GetMbr_Niko](https://x.com/@GetMbr_Niko)
    - [@GetMbr](https://x.com/@GetMbr)
