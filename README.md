@@ -19,5 +19,7 @@
 - TikTok:
    - @getmbr_niko_oneshot
    - @isolynxx.jinxuu (active)
+- Niconico douga (ニコニコ動画):
+   - [Isolynx](https://www.nicovideo.jp/user/141997527)
 - ## [Old Account](https://github.com/GetMbr)
   
