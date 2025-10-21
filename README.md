@@ -10,7 +10,7 @@
 - 📍🇵🇭, and I'm actually a minor.
 
 ## Accounts
-- Discord: isolynxx
+- Discord: [isolynxx](https://discord.gg/kUqydvYS)
 - Reddit: [u/GetMbr](https://reddit.com/u/GetMbr) (inactive)
 - YT: [@isolynx.getmbr](https://youtube.com/@isolynx.getmbr) 
 - X (Twitter):
